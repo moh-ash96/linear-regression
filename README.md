@@ -25,3 +25,5 @@ To get started with the project:
 - [X] Find dataset
 
 - [ ] fulfil the lab needs
+
+[Pull Request](https://github.com/moh-ash96/linear-regression/pull/1)
